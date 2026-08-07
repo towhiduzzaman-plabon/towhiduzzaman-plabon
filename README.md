@@ -1,7 +1,7 @@
 # 🚀 Towhiduzzaman Plabon
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Junior+Web+Developer+(MERN);Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Open+to+Remote+%7C+Internship+%7C+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Web+Developer+(MERN);Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Open+to+Remote+%7C+Internship+%7C+Collab" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 ```text
-🎯 Junior Software Engineer & Mobile App Expert (1+ Years)
+🎯Software Engineer & Mobile App Expert (1+ Years)
 📍 Dinajpur, Rangpur, 5250, Bangladesh | 📞 +880 1723-912972
 💼 MERN-Stack Web Developer | E-commerce Specialist | AI Enthusiast
 🔥 Passionate about scalable solutions & cutting-edge technologies
