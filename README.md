@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 ```text
-🎯Software Engineer & Mobile App Expert (1+ Years)
+🎯Software Engineer & Mobile App Expert (2+ Years)
 📍 Dinajpur, Rangpur, 5250, Bangladesh | 📞 +880 1723-912972
 💼 MERN-Stack Web Developer | E-commerce Specialist | AI Enthusiast
 🔥 Passionate about scalable solutions & cutting-edge technologies
